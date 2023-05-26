@@ -1,5 +1,19 @@
 # Gurjeet Bhangoo
 
+## Languages
+- JavaScript
+- Python
+- Java
+
+## Skills
+- Proficiency with English
+- Team Collaboration 
+- Technical Writing
+- Website Design
+- Coding
+- Video Editing
+- Audio Design
+
 ## My Favorite Projects
 
 ### ChessMind.AI
